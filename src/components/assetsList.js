@@ -1,4 +1,3 @@
-// src/assetsList.js
 
 // Auto-generated assets list
 const assets = {
