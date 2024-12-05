@@ -1,7 +1,7 @@
 
 // Auto-generated assets list
 const assets = {
-  "BACKGROUND": [
+  "background": [
     "/assets/background/blue-skies.png",
     "/assets/background/bushland.png",
     "/assets/background/fall.png",
